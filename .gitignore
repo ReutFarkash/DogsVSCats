@@ -1,0 +1,7 @@
+train/*
+sample_submission.csv
+test.zip
+train.csv
+train.zip
+data/*
+script.ipynb
